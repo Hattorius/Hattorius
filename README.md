@@ -1,4 +1,4 @@
-![Statistics]([https://visitor-badge.laobi.icu/badge?page_id=Hattorius&count_private=true&include_all_commits](https://github-profile-trophy.vercel.app/?username=Hattorius&theme=radical))
+![Statistics](https://visitor-badge.laobi.icu/badge?page_id=Hattorius&count_private=true&include_all_commits)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hattorius&count_private=true&include_all_commits)
 
