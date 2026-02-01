@@ -1,4 +1,4 @@
-![Statistics](https://github-profile-trophy.vercel.app/?username=Hattorius&theme=radical)
+![Statistics](https://trophy.ryglcloud.net/?username=Hattorius&theme=radical)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Hattorius&count_private=true&include_all_commits)
 
